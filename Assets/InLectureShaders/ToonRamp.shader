@@ -34,6 +34,7 @@ Shader "Custom/ToonRamp"
         struct Input
         {
             float2 uv_MainTex;
+
         };
 
 
