@@ -20,6 +20,8 @@ I will list the shaders below
 - Rim Lighting
 - Phong Specular (Error :/ )
 
+I created a material for each of these shaders and attached each shader onto it. 
+
 I added one script that we used from the lecture that is called "ScreenCameraShader". This is used when I want to apply a lut shader to the camera. I also added a lut texture photo, and this was taken from canvas (the one provided throughout lectures).
 
 I added one texture to the project (It was made from one of my gdw group members (Caleb B.) (I am referencing this as it was made by him and not by me. But not found from online))
@@ -27,6 +29,10 @@ I added one texture to the project (It was made from one of my gdw group members
 I created a NormalMap for this texture as well by using the website below
 
 https://cpetry.github.io/NormalMap-Online/ 
+
+I retreived a ramp texture from online. This was taken and made by from the website below
+
+http://xdpixel.com/shader-experiments/ 
 
 This is everything that I have added into the unity file before hand. I added these ten shaders and two textures (One made by my GDW group member and the other created from the first texture using a normalMapping website)
 

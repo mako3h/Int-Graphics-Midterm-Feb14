@@ -1,4 +1,4 @@
-Shader "Custom/Shader1"
+Shader "Custom/ReflectionPBR"
 {
     Properties
     {
