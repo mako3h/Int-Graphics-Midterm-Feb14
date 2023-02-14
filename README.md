@@ -1,5 +1,8 @@
 # Intermediate Graphics Midterm - Febuary 14th
  
+ 2 Parts 
+ Part 1 = Things integrated before the midterm
+ Part 2 = Things integrated during the midterm 
 
 # Things That I Added Before Midterm
 
