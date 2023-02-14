@@ -17,6 +17,8 @@ I will list the shaders below
 - Rim Lighting
 - Phong Specular (Error :/ )
 
+I added one script that we used from the lecture that is called "ScreenCameraShader". This is used when I want to apply a lut shader to the camera. I also added a lut texture photo, and this was taken from canvas (the one provided throughout lectures).
+
 I added one texture to the project (It was made from one of my gdw group members (Caleb B.) (I am referencing this as it was made by him and not by me. But not found from online))
 
 I created a NormalMap for this texture as well by using the website below
